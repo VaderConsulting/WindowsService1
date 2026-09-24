@@ -1,6 +1,6 @@
 # WindowsService1
 
-VB.NET working copy of `WindowsService1` from Dave Robinson's OneDrive Historical Dev `VB/Old` folder. Project title: WindowsService1.
+VB.NET working copy of `WindowsService1` from my Historical Dev `VB/Old` folder. Project title: WindowsService1.
 
 **Source last updated:** 2026-08-27 · **Language:** VB.NET · **Target:** .NET Framework (legacy VB.NET) · **Output:** WinForms exe
 
@@ -25,7 +25,7 @@ Open the solution in Visual Studio:
 
 ## Attribution and provenance
 
-Working copy from Dave Robinson's OneDrive Historical Dev folder `VB/Old/DOT NET/WindowsService1`.
+Working copy from my Historical Dev folder `VB/Old/DOT NET/WindowsService1`.
 
 ## License
 
